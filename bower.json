@@ -8,14 +8,11 @@
   ],
   "license": "BSD-3-Clause",
   "dependencies": {
-    "purescript-prelude": "^4.1.0",
-    "purescript-functions": "^4.0.0"
+    "purescript-functions": "^4.0.0",
+    "purescript-effect": "^2.0.1"
   },
   "repository": {
-    "url": "git://github.com/athanclark/purescript-setimmediate.git",
+    "url": "https://github.com/athanclark/purescript-setimmediate.git",
     "type": "git"
-  },
-  "devDependencies": {
-    "purescript-psci-support": "^4.0.0"
   }
 }
